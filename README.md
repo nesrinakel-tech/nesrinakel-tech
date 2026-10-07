@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nesrin Akel 👋
 
-<!--
-**nesrinakel-tech/nesrinakel-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher in civil engineering at **La Rochelle Université**.
+I work on the mechanical behaviour of materials and geomaterials, combining laboratory testing, numerical modelling and machine learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on constitutive laws for partially saturated granular materials using GPU-based DEM-LBM simulations
+- 🌱 I'm currently learning **physics-informed neural networks (PINNs)** and GPU computing
+- 👯 I'm looking to collaborate on discrete element modelling, granular mechanics and scientific machine learning
+- 📫 How to reach me: nesrin.akel@univ-lr.fr (work) · nesrinakel.33@gmail.com (personal)
+
+### 🔬 Research interests
+- Discrete element method (DEM) and lattice Boltzmann method (LBM)
+- Physics-informed neural networks for constitutive modelling
+- Granular materials, geosynthetics and polymer mechanics
+- X-ray and neutron tomography
+  
+  
+### 🛠️ Tools
+Python · Matlab · Yade · GPU computing · Fiji / SPAM · AutoCAD · Revit
+
